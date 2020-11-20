@@ -25,5 +25,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Trùm Bug
+![Chính hắn](https://imagizer.imageshack.com/img923/5789/YU6Qqm.jpg)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
